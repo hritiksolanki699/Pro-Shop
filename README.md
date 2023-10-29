@@ -27,4 +27,3 @@ ProShop is a full-stack e-commerce website built with the MERN (MongoDB, Express
 - PayPal API: Payment processing integration.
 - JWT (JSON Web Tokens): For user authentication and authorization.
 - bcrypt.js: Password hashing for user security.
-
